@@ -1,5 +1,8 @@
-<summary style="color: rgb(255, 0, 127);">
-    <u>Read More</u>
-  </summary> 
-  The More Text
+<details>
+    <summary style="color: rgb(255, 0, 127);">
+        <u>Read More</u>
+    </summary> 
+    <p style="color: rgb(91, 16, 20);">
+        The More Text
+    </p>
 </details>
